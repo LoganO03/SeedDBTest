@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab8stepOne\\StepOne\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\sadie\\OneDrive\\Desktop\\SeedDBTest\\SeedDBtest\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab8stepOne\\StepOne\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\sadie\\OneDrive\\Desktop\\SeedDBTest\\SeedDBtest\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab8stepOne\\StepOne\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\sadie\\OneDrive\\Desktop\\SeedDBTest\\SeedDBtest\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab8stepOne\\StepOne\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\SeedDBTest\\SeedDBtest\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\sadie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\csci340-lab8stepOne\\StepOne\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\sadie\\OneDrive\\Desktop\\SeedDBTest\\SeedDBtest\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sadie\\AppData\\Roaming\\NuGet\\NuGet.Config"
